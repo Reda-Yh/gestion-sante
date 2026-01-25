@@ -82,7 +82,7 @@ L’application permet la gestion complète des **rendez-vous médicaux**, **dos
 
 ```bash
 # 1. Cloner le projet
-git clone <url-du-repo>
+git clone https://github.com/Reda-Yh/gestion-sante.git
 cd gestion-sante
 
 # 2. Installer les dépendances PHP
