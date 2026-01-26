@@ -134,6 +134,4 @@ npm run dev
 Ouvrir :
 http://127.0.0.1:8000
 
-
-
-jkkkj
+© 2026 Reda Yahya. All rights reserved.
